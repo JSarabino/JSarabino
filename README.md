@@ -2,21 +2,11 @@
 
 ## Estudiante de Ingeniería de Sistemas | Software Developer | Fullstack Developer
 
-¡Hola! Soy Juan Camilo Sarabino, tesista de Ingeniería de Sistemas en la Universidad del Cauca, con experiencia en desarrollo fullstack, diseño de arquitecturas basadas en microservicios y aplicación de metodologías ágiles.
+¡Hola! Soy Juan Camilo Sarabino, tesista de Ingeniería de Sistemas en la Universidad del Cauca. Tengo experiencia en desarrollo fullstack, diseño de arquitecturas basadas en microservicios y construcción de aplicaciones web con enfoque en buenas prácticas de ingeniería de software.
 
-Me interesa construir soluciones de software escalables, mantenibles y bien documentadas, integrando buenas prácticas de arquitectura, desarrollo backend, frontend, bases de datos, APIs REST, autenticación y despliegue con contenedores.
+Me interesa desarrollar soluciones escalables, mantenibles y bien documentadas, combinando backend, frontend, bases de datos, APIs REST, autenticación y despliegue con contenedores.
 
-Actualmente estoy fortaleciendo mis conocimientos en inteligencia artificial, cloud computing, agentes inteligentes, RAG y automatización a través del programa Oracle Next Education - ONE AI FOR TECH.
-
----
-
-## Sobre mí
-
-* Estudiante de Ingeniería de Sistemas en la Universidad del Cauca.
-* Desarrollador fullstack con experiencia en frontend y backend.
-* Interesado en arquitectura de software, microservicios, inteligencia artificial y soluciones basadas en datos.
-* Con experiencia en diseño de APIs REST, autenticación JWT, bases de datos relacionales y no relacionales.
-* Me caracterizo por la adaptabilidad, el trabajo en equipo, la comunicación asertiva y la orientación a resultados.
+Actualmente estoy fortaleciendo mis conocimientos en inteligencia artificial, cloud computing, RAG, agentes inteligentes y automatización mediante el programa Oracle Next Education - ONE AI FOR TECH.
 
 ---
 
@@ -48,11 +38,11 @@ Microservicios | Domain-Driven Design | CQRS | Outbox Pattern | Arquitectura Hex
 
 ### AgroMercado
 
-Plataforma fullstack orientada a conectar productores locales con compradores urbanos de la ciudad de Popayán, soportada en una arquitectura distribuida basada en microservicios.
+Plataforma fullstack orientada a conectar productores locales con compradores urbanos en Popayán, desarrollada sobre una arquitectura distribuida basada en microservicios.
 
-En este proyecto he trabajado en el diseño y desarrollo del microservicio de cuentas, aplicando principios de Domain-Driven Design, CQRS, patrón Outbox, comunicación asíncrona y documentación mediante diagramas C4.
+Participé en el diseño y desarrollo del microservicio de cuentas, aplicando DDD, CQRS, patrón Outbox, comunicación asíncrona y documentación mediante diagramas C4.
 
-**Tecnologías y prácticas utilizadas:**
+**Tecnologías y prácticas:**
 Spring Boot | React | PostgreSQL | MongoDB | RabbitMQ | Docker | JWT | DDD | CQRS | Arquitectura Hexagonal
 
 Repositorio: [AgroMercado](https://github.com/JSarabino/AgroMercado)
@@ -61,11 +51,11 @@ Repositorio: [AgroMercado](https://github.com/JSarabino/AgroMercado)
 
 ### Sistema de Autoevaluación Docente
 
-Aplicación web desarrollada para gestionar el proceso de autoevaluación docente del programa de Ingeniería de Sistemas de la Universidad del Cauca.
+Aplicación web para gestionar el proceso de autoevaluación docente del programa de Ingeniería de Sistemas de la Universidad del Cauca.
 
-El sistema integra frontend en Angular, backend en Node.js con Express y TypeScript, autenticación JWT, consumo de APIs REST, arquitectura por capas y gestión de datos mediante Sequelize.
+El sistema integra frontend en Angular, backend en Node.js con Express y TypeScript, autenticación JWT, consumo de APIs REST y gestión de datos mediante Sequelize.
 
-**Tecnologías utilizadas:**
+**Tecnologías:**
 Angular | Node.js | Express.js | TypeScript | Sequelize | JWT | Angular Material | MySQL
 
 Repositorio: [Sistema de Autoevaluación Docente](https://github.com/JSarabino/Sistema-autoevaluacion-docente)
@@ -74,7 +64,7 @@ Repositorio: [Sistema de Autoevaluación Docente](https://github.com/JSarabino/S
 
 ## Actualmente aprendiendo
 
-Estoy cursando el programa Oracle Next Education - ONE AI FOR TECH, enfocado en inteligencia artificial, cloud, RAG, agentes inteligentes y automatización.
+Estoy cursando el programa Oracle Next Education - ONE AI FOR TECH, con énfasis en inteligencia artificial, cloud, RAG, agentes inteligentes y automatización.
 
 ### Guías de estudio en curso
 
@@ -90,16 +80,6 @@ Estoy cursando el programa Oracle Next Education - ONE AI FOR TECH, enfocado en 
 * CCNA: Introduction to Networks
 * Arquitectura con Google Kubernetes Engine
 * Scrum Fundamentals Certified (SFC™)
-
----
-
-## Próximos objetivos
-
-* Publicar mi portafolio profesional con GitHub Pages.
-* Documentar mis proyectos principales con README técnicos completos.
-* Construir proyectos aplicados en inteligencia artificial y análisis de datos.
-* Fortalecer mi perfil en backend, cloud computing y arquitecturas modernas.
-* Integrar buenas prácticas de versionado, documentación y despliegue.
 
 ---
 
