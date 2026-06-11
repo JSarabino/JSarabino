@@ -8,6 +8,8 @@ Me interesa desarrollar soluciones escalables, mantenibles y bien documentadas, 
 
 Actualmente estoy fortaleciendo mis conocimientos en inteligencia artificial, cloud computing, RAG, agentes inteligentes y automatización mediante el programa Oracle Next Education - ONE AI FOR TECH.
 
+🌐 Portafolio: [jsarabino-portafolio.vercel.app](https://jsarabino-portafolio.vercel.app/)
+
 ---
 
 ## Habilidades técnicas
@@ -88,3 +90,4 @@ Estoy cursando el programa Oracle Next Education - ONE AI FOR TECH, con énfasis
 * Email: [jsarabino@unicauca.edu.co](mailto:jsarabino@unicauca.edu.co)
 * GitHub: [github.com/JSarabino](https://github.com/JSarabino)
 * LinkedIn: [linkedin.com/in/jsarabino](https://www.linkedin.com/in/jsarabino)
+* Portafolio: [jsarabino-portafolio.vercel.app](https://jsarabino-portafolio.vercel.app/)
